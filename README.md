@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Joel, an aspiring Software Developer currently based in
-Tauranga.
+Kia Ora! I'm Joel, an aspiring Software Developer currently back in study but looking for interesting opportunities.
+
 I have a passion for technology and problem-solving, and combining those
 interests into a career has been a life-long ambition. Although I haven’t
 been able to approach it as a career until now, I’ve been writing code for
 15+ years and am particularly comfortable with the .NET ecosystem.
-I've recently recovered from a long battle with Chronic Fatigue, and am
-highly motivated to enter the software industry, plus make up for some
-time lost.
 
 Here is a not-entirely-curated selection of projects from over the last ~5 years. Hopefully they will give an honest glimpse into the type of developer I am (though bear in mind almost all of these were purely personal projects and therefore are light on documentation!). The two pinned projects are more recent, and have a decent explanation of each project in the respective READMEs.
 
