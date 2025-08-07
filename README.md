@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Kia Ora! I'm Joel, an aspiring Software Developer currently back in study but looking for interesting opportunities.
-
-I have a passion for technology and problem-solving, and combining those
-interests into a career has been a life-long ambition. Although I haven’t
-been able to approach it as a career until now, I’ve been writing code for
-15+ years and am particularly comfortable with the .NET ecosystem.
-
-Here is a not-entirely-curated selection of projects from over the last ~5 years. Hopefully they will give an honest glimpse into the type of developer I am (though bear in mind almost all of these were purely personal projects and therefore are light on documentation!). The two pinned projects are more recent, and have a decent explanation of each project in the respective READMEs.
-
-Feel free to reach out with an questions, comments, or advice.
+Kia Ora! I'm Joel, a Software Developer in New Zealand.
+I'm currently working in Cloud, Mobile, and Platform Engineering spaces across a range of languages and technologies.
+Projects here are a bit neglected for the time being!
