@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Kia Ora! I'm Joel, a Software Developer in New Zealand.
+
 I'm currently working in Cloud, Mobile, and Platform Engineering spaces across a range of languages and technologies.
+
 Projects here are a bit neglected for the time being!
